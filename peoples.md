@@ -4,11 +4,12 @@ layout: css_template
 date: 2019-04-01
 permalink: peoples.html
 ---
+<div class="wrap">
+
 ## Professor
 <table class="pure-table pure-table-horizontal">
 
 <tbody>
-
 <tr>
 
 <td rowspan="5">
@@ -42,10 +43,11 @@ permalink: peoples.html
 <td> http://dataknow.korea.ac.kr/ </td>
 
 </tr>
-
 </tbody>
 
 </table>
+
+
 
 **학력**
 <table width="100%" class="pure-table pure-table-horizontal pure-table-striped">
@@ -675,3 +677,4 @@ Machine Learning (Deep Learning), Data Mining, Big Data<br /> Analytics&amp;Proc
 
 </td></tr></tbody></table><br />
 
+</div>
