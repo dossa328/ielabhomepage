@@ -21,6 +21,9 @@
 }
 
 body {
+    height: 100%;
+  width: 65%;
+  margin: 0 auto;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -43,7 +46,7 @@ section {
 nav {
   -webkit-flex: 1;
   -ms-flex: 1;
-  flex: 0;
+  flex: 0.3;
   background: #ccc;
   padding: 20px;
 }
@@ -83,22 +86,30 @@ footer {
 <body>
 
 <header>
-  <h2>IE LAB</h2>
+    <font size="5em" color="white">
+        <h2>Peoples</h2>
+    </font>
 </header>
 
 <section>
   <nav>
     <ul>
-      <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Tokyo</a></li>
+      <li>Members</li> <br>
+      <li><a href="#Professor">Professor</a></li> <br>
+      <li><a href="#PH.D. Course">PH.D. Course</a></li> <br>
+      <li><a href="#M.S. Course">M.S. Course</a></li> <br>
+      <li><a href="#PH.D. Alumni">PH.D. Alumni</a></li> <br>
+      <li><a href="#M.S. Alumni">M.S. Alumni</a></li> <br>
+      
+      <li><a href="index.html">Go to home</a></li> <br>
     </ul>
   </nav>
   
   <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+    <font size="4em" color="black">
+    <p>2019년 현재 <strong>박사 9명, 석사 4명</strong>을 배출하였으며, 주로 대학교와 연구기관에 임용 및 재직중에 있습니다.</p>
+    <p>현재 연구실에 재학중인 학생은 <strong>박사과정 6명, 석사과정 1명</strong>으로 <strong>총 7명</strong>으로 구성되어 있습니다.</p>
+    </font>
     {{ content }}
   </article>
 </section>

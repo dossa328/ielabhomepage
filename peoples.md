@@ -4,17 +4,19 @@ layout: css_template
 date: 2019-04-01
 permalink: peoples.html
 ---
+<a name="Professor"> </a>
+
+## << Professor >>
+
+
 <div class="wrap">
 
-## Professor
-<table class="pure-table pure-table-horizontal">
+<table class="pure-table pure-table-horizontal" style="text-align:center">
 
 <tbody>
 <tr>
 
-<td rowspan="5">
-	<img src = "assets/images/jungsy.jpg">
-</td>
+  <td rowspan="5" valign="center" width="160"><img alt="정순영.png" src="/assets/images/jungsy.jpg" editor_component="image_link" width="160" /> </td>
 
 <td>정순영교수님 (교수)</td>
 
@@ -34,7 +36,7 @@ permalink: peoples.html
 
 <tr>
 
-<td> mailto:jsy@korea.ac.kr </td>
+<td> jsy@korea.ac.kr </td>
 
 </tr>
 
@@ -46,11 +48,13 @@ permalink: peoples.html
 </tbody>
 
 </table>
+</div>
 
 
+## << 학력 >>
 
-**학력**
-<table width="100%" class="pure-table pure-table-horizontal pure-table-striped">
+<div class="wrap">
+<table width="100%" class="pure-table pure-table-horizontal pure-table-striped" style="text-align:center">
 
 <thead>
 
@@ -110,9 +114,13 @@ permalink: peoples.html
 
 </table>
 
-**경력**
+</div>
 
-<table width="100%" class="pure-table pure-table-horizontal pure-table-striped">
+## << 경력 >>
+
+<div class="wrap">
+
+<table width="100%" class="pure-table pure-table-horizontal pure-table-striped" style="text-align:center">
 
 <thead>
 
@@ -129,6 +137,16 @@ permalink: peoples.html
 </thead>
 
 <tbody>
+
+<tr>
+
+<td valign="middle" class="">2019년 3월 ～ 현재</td>
+
+<td valign="middle" class="">고려대학교</td>
+
+<td valign="middle" class="">연구기획본부장</td>
+
+</tr>
 
 <tr>
 
@@ -364,85 +382,18 @@ permalink: peoples.html
 
 </table>
 
-## PH.D. Course
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+</div>
+
+<a name="PH.D. Course"> </a>
+
+## << PH.D. Course >>
+
+<div class="wrap">
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="정경호.PNG" src="http://dataknow.net/files/attach/images/161/163/8b031d63835f93cbfc8d14b0c3422d66.PNG" editor_component="image_link" width="160" /> </td>
-<td>KyoungHo Jung (정경호)</td></tr>
-<tr>
-<td><i class="fa fa-envelope-o"></i><a href="mailto:kyounghjung@naver.com">kyounghjung AT naver.com</a><br /><i class="fa fa-home"></i>N/A </td></tr>
-<tr>
-<td>
-<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
-
-
-<p>Mobile Database Management</p>
-
-</td></tr></tbody></table><br />
-
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
-<tbody>
-<tr>
-<td rowspan="3" valign="center" width="160"><img alt="장홍준.PNG" src="http://dataknow.net/files/attach/images/161/163/c86979a32308abf74c49c4a6fbf40e7a.PNG" editor_component="image_link" width="160" /></td>
-<td>Hongjun Jang (장홍준)</td></tr>
-<tr>
-<td><i class="fa fa-envelope-o"></i><a href="mailto:jhjsun@naver.com">jhjsun AT naver.com</a><br /><i class="fa fa-home"></i><a href="http://cafe.naver.com/sharingjava" target="_blank">http://cafe.naver.com/sharingjava </a></td></tr>
-<tr>
-<td>
-<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
-
-
-<p>Large Scale Data Management, Spatial Databases</p>
-
-</td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
-<tbody>
-<tr>
-<td rowspan="3" valign="center" width="160"><img alt="증명사진.jpg" src="http://dataknow.net/files/attach/images/161/163/8b3b68e22cdce7396f77c1ff13a58cc5.jpg" editor_component="image_link" width="130" height="150" /> </td>
-<td>Taemin Lee (이태민)</td></tr>
-<tr>
-<td><i class="fa fa-envelope-o"></i><a href="mailto:persuade@gmail.com">persuade AT gmail.com</a><br /><i class="fa fa-home"></i><a href="http://tm.dataknow.net" target="_blank">http://tm.dataknow.net</a></td></tr>
-<tr>
-<td>
-<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
-
-
-<p>Plagiarism detection, Text mining, Trajectory mining</p>
-
-</td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
-<tbody>
-<tr>
-<td rowspan="3" valign="center" width="160"><img alt="디아나.png" src="http://dataknow.net/files/attach/images/161/163/19f3a411b3d5c65e188308ec61334194.png" editor_component="image_link" width="160" /> </td>
-<td>Gromyko Diana</td></tr>
-<tr>
-<td><i class="fa fa-envelope-o"></i><a href="mailto:dialen@hanmail.net">dialen AT hanmail.net</a><br /><i class="fa fa-home"></i>N/A </td></tr>
-<tr>
-<td>
-<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
-
-
-<p>Trajectory pattern mining, Spatio-temporal query processing</p>
-
-</td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
-<tbody>
-<tr>
-<td rowspan="3" valign="center" width="160"><img alt="unk.png" src="http://dataknow.net/files/attach/images/161/163/e8e8cf3d9d0c6b3dddd5caa8a58217eb.png" editor_component="image_link" width="160" /> </td>
-<td>JeongEun Kim (김정은)</td></tr>
-<tr>
-<td><i class="fa fa-envelope-o"></i><a href="mailto:marite76@korea.ac.kr">marite76 AT korea.ac.kr</a><br /><i class="fa fa-home"></i>N/A </td></tr>
-<tr>
-<td>
-<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
-</td></tr></tbody></table><p><br /></p>
-<p>
-</p>
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
-<tbody>
-<tr>
-<td rowspan="3" valign="center" width="160"><img alt="최우성.png" src="http://dataknow.net/files/attach/images/161/163/006de66452e5b31c6cb36e41c60a4b4e.png" editor_component="image_link" width="130" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="최우성.png" src="/assets/images/ws_choi.png" editor_component="image_link" width="160" /> </td>
 <td>Woosung Choi (최우성)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i><a href="mailto:ws_choi@korea.ac.kr">ws_choi AT korea.ac.kr</a><br />
@@ -457,10 +408,45 @@ permalink: peoples.html
 <p class="0"><span style="LETTER-SPACING: 0pt; mso-fareast-font-family: 함초롬바탕; mso-font-width: 100%; mso-text-raise: 0pt" lang="EN-US">Large Scale Data Management,&nbsp;</span><span style="LINE-HEIGHT: 1.5; LETTER-SPACING: 0pt">Moving object management</span></p>
 
 </td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="현경석.png" src="http://dataknow.net/files/attach/images/161/163/ef679273fbdef5b8ebda460a45a6526f.png" editor_component="image_link" width="160" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="이태민.jpg" src="/assets/images/TaeminLee.jpg" editor_component="image_link" width="160" /> </td>
+<td>Taemin Lee (이태민)</td></tr>
+<tr>
+<td><i class="fa fa-envelope-o"></i><a href="mailto:persuade@gmail.com">persuade AT gmail.com</a><br /><i class="fa fa-home"></i><a href="http://tm.dataknow.net" target="_blank">http://tm.dataknow.net</a></td></tr>
+<tr>
+<td>
+<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
+
+
+<p>Plagiarism detection, Text mining, Trajectory mining</p>
+
+</td></tr></tbody></table><br/>
+
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
+<tbody>
+<tr>
+<td rowspan="3" valign="center" width="160"><img alt="디아나.png" src="/assets/images/GromykoDiana.png" editor_component="image_link" width="160" /> </td>
+<td>Gromyko Diana</td></tr>
+<tr>
+<td><i class="fa fa-envelope-o"></i><a href="mailto:dialen@hanmail.net">dialen AT hanmail.net</a><br /><i class="fa fa-home"></i>N/A </td></tr>
+<tr>
+<td>
+<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
+
+
+<p>Trajectory pattern mining, Spatio-temporal query processing</p>
+
+</td></tr></tbody></table><br />
+
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
+<tbody>
+<tr>
+<td rowspan="3" valign="center" width="160"><img alt="현경석.png" src="/assets/images/KyoungSeokHyun.png" editor_component="image_link" width="160" /> </td>
 <td>Kyoung Seok Hyun (현경석)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i><a href="mailto:ks_hyun@korea.ac.kr">ks_hyun AT korea.ac.kr</a><br /><i class="fa fa-home"></i>N/A </td></tr>
@@ -473,10 +459,10 @@ permalink: peoples.html
 
 </td></tr></tbody></table><p><br /></p>
 
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" class="" valign="center" width="160"><img alt="limth.JPG" src="http://dataknow.net/?module=file&amp;act=procFileDownload&amp;file_srl=16940&amp;sid=8f903b65a5e2b11555319bb80dde688c&amp;module_srl=161" editor_component="image_link" width="160" /> 
+<td rowspan="3" class="" valign="center" width="160"><img alt="임태형.JPG" src="/assets/images/noface.png" editor_component="image_link" width="160" /> 
 <p><br /></p>
 
 </td>
@@ -492,28 +478,40 @@ permalink: peoples.html
 
 </td></tr></tbody></table><br />
 
-<p>
-</p>
-## M.S. Course
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="unk.png" src="http://dataknow.net/files/attach/images/161/163/e8e8cf3d9d0c6b3dddd5caa8a58217eb.png" editor_component="image_link" width="160" /> </td>
-<td>KwangMin Lee (이광민)</td></tr>
+<td rowspan="3" class="" valign="center" width="160"><img alt="김민석.JPG" src="/assets/images/KimMinSeok.jpg" editor_component="image_link" width="160" /> 
+<p><br /></p>
+
+</td>
+<td class="">MinSeok Kim (김민석)</td></tr>
 <tr>
-<td><i class="fa fa-envelope-o"></i><a href="mailto:kwangmin78@korea.ac.kr">kwangmin78 AT korea.ac.kr</a><br /><i class="fa fa-home"></i>N/A </td></tr>
+<td class=""><i class="fa fa-envelope-o"></i><a href="mailto:rlaalstjr47@korea.ac.kr">rlaalstjr47 AT korea.ac.kr</a><br /><i class="fa fa-home"></i>N/A </td></tr>
 <tr>
-<td>
+<td class="">
 <p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
 
-<p></p>
 
-</td></tr></tbody></table>
+<p class="0"></p>
 
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+</td></tr></tbody></table><br />
+
+</div>
+
+<a name="M.S. Course"> </a>
+
+## << M.S. Course >>
+
+<div class="wrap">
+
+
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" class="" valign="center" width="160"><img alt="unk.png" src="http://dataknow.net/?module=file&amp;act=procFileDownload&amp;file_srl=16932&amp;sid=1ab75c1ca5c8d4390ffcec24d136a211&amp;module_srl=161" =""="" editor_component="image_link" width=" 160" /> 
+<td rowspan="3" class="" valign="center" width="160"><img alt="unk.png" src="/assets/images/JungHyunDo.png" editor_component="image_link" width="160" /> 
 <p><br /></p>
 
 </td>
@@ -528,11 +526,18 @@ Natural Language Processing, Information Retrieval
 <p class="0"></p>
 
 </td></tr></tbody></table><br />
-## PH.D. Alumni
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+</div>
+
+<a name="PH.D. Alumni"> </a>
+
+## << PH.D. Alumni >>
+
+<div class="wrap">
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="정재화.jpg" src="http://dataknow.net/files/attach/images/161/163/6894fac96414d54371c57c76277cbca6.jpg" editor_component="image_link" width="150" height="180" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="정재화.jpg" src="/assets/images/JaehwaChung.jpg" editor_component="image_link" width="160" /> </td>
 <td>Jaehwa Chung (정재화)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i><a href="mailto:jaehwachung@knou.ac.kr">jaehwachung AT knou.ac.kr</a><br /><i class="fa fa-home"></i><a href="http://cs.knou.ac.kr/~jaehwachung/" target="_blank">http://cs.knou.ac.kr/~jaehwachung/ </a></td></tr>
@@ -544,10 +549,10 @@ Natural Language Processing, Information Retrieval
 <p>Korea National Open University</p>
 
 </td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="박기남.png" src="http://dataknow.net/files/attach/images/161/163/ab5757e61e66ccf218537fc9661ccc47.png" editor_component="image_link" width="160" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="박기남.png" src="/assets/images/KinamPark.png" editor_component="image_link" width="160" /> </td>
 <td>Kinam Park (박기남)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i><a href="mailto:spknn@sch.ac.kr">spknn AT sch.ac.kr</a><br /><i class="fa fa-home"></i>N/A </td></tr>
@@ -559,10 +564,10 @@ Natural Language Processing, Information Retrieval
 <p>Soonchunhyang University</p>
 
 </td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="채정민.png" src="http://dataknow.net/files/attach/images/161/163/65782101f9a54159d3c261963f49b68f.png" editor_component="image_link" width="160" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="채정민.png" src="/assets/images/JeongminChae.png" editor_component="image_link" width="160" /> </td>
 <td>Jeongmin Chae (채정민)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i><a href="mailto:onacloud@gmail.com">onacloud AT gmail.com</a><br /><i class="fa fa-home"></i><a href="http://tm.withcat.net">http://tm.withcat.net</a> </td></tr>
@@ -580,10 +585,10 @@ Natural Language Processing, Information Retrieval
 <p>Korea University</p>
 
 </td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="unk.png" src="http://dataknow.net/files/attach/images/161/163/e8e8cf3d9d0c6b3dddd5caa8a58217eb.png" editor_component="image_link" width="160" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="전종호.png" src="/assets/images/noface.png" editor_component="image_link" width="160" /> </td>
 <td>Jongho Jeon (전종호)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i><a href="mailto:mulbit@krivet.re.kr">mulbit AT krivet.re.kr</a><br /><i class="fa fa-home"></i>N/A </td></tr>
@@ -595,10 +600,10 @@ Natural Language Processing, Information Retrieval
 <p>KRIVET</p>
 
 </td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="강정민.jpg" src="http://dataknow.net/files/attach/images/161/163/d777245ef13900734f35c68ec79091dd.jpg" editor_component="image_link" width="160" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="강정민.jpg" src="/assets/images/JeongminKang.jpg" editor_component="image_link" width="160" /> </td>
 <td>Jeongmin Kang (강정민)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i><a href="mailto:jim003@naver.com">jim003 AT naver.com</a><br /><i class="fa fa-home"></i>N/A </td></tr>
@@ -611,10 +616,10 @@ Natural Language Processing, Information Retrieval
 
 </td></tr></tbody></table>
 
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="정영희.PNG" src="http://dataknow.net/files/attach/images/161/163/9e39079c50c8481a292495e39d912f16.PNG" editor_component="image_link" width="160" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="정영희.PNG" src="/assets/images/YoungheeJung.PNG" editor_component="image_link" width="160" /> </td>
 <td>Younghee Jung (정영희)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i><a href="mailto:coolof@nate.com">coolof AT nate.com</a><br /><i class="fa fa-home"></i>N/A </td></tr>
@@ -627,11 +632,65 @@ Natural Language Processing, Information Retrieval
 
 </td></tr></tbody></table><br />
 
-## M.S. Alumni
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="unk.png" src="http://dataknow.net/files/attach/images/161/163/e8e8cf3d9d0c6b3dddd5caa8a58217eb.png" editor_component="image_link" width="160" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="정경호.PNG" src="/assets/images/KyoungHoJung.png" editor_component="image_link" width="160" /> </td>
+<td>KyoungHo Jung (정경호)</td></tr>
+<tr>
+<td><i class="fa fa-envelope-o"></i><a href="mailto:kyounghjung@naver.com">kyounghjung AT naver.com</a><br /><i class="fa fa-home"></i>N/A </td></tr>
+<tr>
+<td>
+<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
+
+<p>Mobile Database Management</p>
+
+</td></tr></tbody></table><br />
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
+<tbody>
+<tr>
+<td rowspan="3" valign="center" width="160"><img alt="장홍준.PNG" src="/assets/images/HongjunJang.png" editor_component="image_link" width="160" /></td>
+<td>Hongjun Jang (장홍준)</td></tr>
+<tr>
+<td><i class="fa fa-envelope-o"></i><a href="mailto:jhjsun@naver.com">jhjsun AT naver.com</a><br /><i class="fa fa-home"></i><a href="http://cafe.naver.com/sharingjava" target="_blank">http://cafe.naver.com/sharingjava </a></td></tr>
+<tr>
+<td>
+<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
+
+
+<p>Large Scale Data Management, Spatial Databases</p>
+
+</td></tr></tbody></table><br />
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
+<tbody>
+<tr>
+<td rowspan="3" valign="center" width="160"><img alt="김정은.png" src="/assets/images/noface.png" editor_component="image_link" width="160" /> </td>
+<td>JeongEun Kim (김정은)</td></tr>
+<tr>
+<td><i class="fa fa-envelope-o"></i><a href="mailto:marite76@korea.ac.kr">marite76 AT korea.ac.kr</a><br /><i class="fa fa-home"></i>N/A </td></tr>
+<tr>
+<td>
+<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
+</td></tr></tbody></table><p><br /></p>
+<p>
+</p>
+
+</div>
+
+<a name="M.S. Alumni"> </a>
+
+## << M.S. Alumni >>
+
+<div class="wrap">
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
+<tbody>
+<tr>
+<td rowspan="3" valign="center" width="160"><img alt="최정임.png" src="/assets/images/noface.png" editor_component="image_link" width="160" /> </td>
 <td>JeongIm Choi (최정임)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i>N/A <br /><i class="fa fa-home"></i>N/A </td></tr>
@@ -643,10 +702,10 @@ Natural Language Processing, Information Retrieval
 <p>Korea University</p>
 
 </td></tr></tbody></table><br />
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" valign="center" width="160"><img alt="unk.png" src="http://dataknow.net/files/attach/images/161/163/e8e8cf3d9d0c6b3dddd5caa8a58217eb.png" editor_component="image_link" width="160" /> </td>
+<td rowspan="3" valign="center" width="160"><img alt="이승은.png" src="/assets/images/noface.png" editor_component="image_link" width="160" /> </td>
 <td>SeungEun Lee (이승은)</td></tr>
 <tr>
 <td><i class="fa fa-envelope-o"></i>N/A<br /><i class="fa fa-home"></i>N/A </td></tr>
@@ -658,10 +717,10 @@ Natural Language Processing, Information Retrieval
 <p>Kookmin Bank</p>
 
 </td></tr></tbody></table>
-<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal">
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
 <tbody>
 <tr>
-<td rowspan="3" class="" valign="center" width="160"><img alt="min.png" src="http://dataknow.net/?module=file&amp;act=procFileDownload&amp;file_srl=16929&amp;sid=98ada615d8f7b7c9fb277c7090e26a6b&amp;module_srl=161" =""="" editor_component="image_link" width=" 160" /> 
+<td rowspan="3" class="" valign="center" width="160"><img alt="민종현.png" src="/assets/images/noface.png" editor_component="image_link" width="160" /> 
 <p><br /></p>
 
 </td>
@@ -676,5 +735,20 @@ Machine Learning (Deep Learning), Data Mining, Big Data<br /> Analytics&amp;Proc
 <p class="0"></p>
 
 </td></tr></tbody></table><br />
+
+<table style="MIN-WIDTH: 50%" class="pure-table pure-table-horizontal" style="text-align:center">
+<tbody>
+<tr>
+<td rowspan="3" valign="center" width="160"><img alt="이광민.png" src="/assets/images/noface.png" editor_component="image_link" width="160" /> </td>
+<td>KwangMin Lee (이광민)</td></tr>
+<tr>
+<td><i class="fa fa-envelope-o"></i><a href="mailto:kwangmin78@korea.ac.kr">kwangmin78 AT korea.ac.kr</a><br /><i class="fa fa-home"></i>N/A </td></tr>
+<tr>
+<td>
+<p style="FONT-WEIGHT: bold"><b>Research Field</b></p>
+
+<p></p>
+
+</td></tr></tbody></table>
 
 </div>
